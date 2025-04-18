@@ -45,6 +45,8 @@ Map<Integer, Boolean> searchCache;
 If a level exceeds 200 elements:
 - Split into two levels (first half remains, second half goes to `levelKey + 10`)
 
+Download JavaFX SDK from:
+https://gluonhq.com/products/javafx/
 ---
 
 ## 📂 Project Structure
