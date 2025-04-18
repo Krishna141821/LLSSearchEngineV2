@@ -49,6 +49,7 @@ If a level exceeds 200 elements:
 
 ## 📂 Project Structure
 ```
+lib/javafx-sdk
 LLSSearchEngineV2.java     // Core search engine logic
 LLSTester.java             // CLI tester & demo
 LLSVisualizer.java         // JavaFX GUI (optional)
